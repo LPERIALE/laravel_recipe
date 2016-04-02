@@ -1,0 +1,131 @@
+body
+	{
+	font-family: 'Lora', serif;
+	}
+	
+.nav li a
+	{
+	color: black;
+	}
+	
+.default
+	{
+	background-color:grey;
+	}
+
+.table
+	{
+	background-color:white;
+	}
+
+.bgHome 
+	{
+	background-image: url('../images/bgHome.jpg');
+	background-size: cover;
+	}
+
+.container 
+	{
+	margin-top:20px;
+	}
+	
+.transparency
+	{
+	background: rgba(255,255,255,0.8);
+	color:black;
+	}
+
+.grey
+	{
+	background-color:white;
+	color:white;
+	}
+
+.margin-top-10
+	{
+	margin-top:10px;
+	}
+	
+.margin-top-15
+	{
+	margin-top:15px;
+	}
+
+.margin-top-20
+	{
+	margin-top:20px;
+	}
+	
+.margin-top-30
+	{
+	margin-top:30px;
+	}
+
+.margin-top-40
+	{
+	margin-top:40px;
+	}
+
+.width-80
+	{
+	width:80%;
+	}
+	
+.right
+	{
+	float:right;
+	}
+
+.margin-right-60
+	{
+	margin-right:60px;
+	}
+	
+.margin-right-20p
+	{
+	margin-right:20%;
+	}
+
+.guest 
+	{
+	display:inline;
+	margin-left:20px;
+	}
+
+.user
+	{
+	margin-top:-5px;
+	}
+
+.dropdown-menu 
+	{
+	min-width: 0px;
+	}
+	
+.title
+	{
+	position:relative;
+	top:-90px;
+	left:10px;
+	text-align:center;
+	width:180px;
+	height:60px;
+	}
+
+.title a {color:#663300;}
+
+.thumbnail
+	{height:160px;}
+
+.action
+	{
+	position:relative;
+	top:-80px;}
+	
+
+
+
+
+
+
+	
