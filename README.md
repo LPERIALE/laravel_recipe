@@ -1,10 +1,13 @@
 # laravel_recipe
 recipes book created with Laravel
 
->>>SEEDING
-php artisan db:seed --class=UsersTableSeeder php artisan db:seed --class=RecipeTableSeeder php artisan db:seed --class=IngredTableSeeder php artisan db:seed --class=Ingredient_RecipeTableSeeder
+SEEDING
+php artisan db:seed --class=UsersTableSeeder 
+php artisan db:seed --class=RecipeTableSeeder 
+php artisan db:seed --class=IngredTableSeeder 
+php artisan db:seed --class=Ingredient_RecipeTableSeeder
 
->>>LOGIN
+LOGIN
 EMAIL: admin@prova.com
 PSW: admin1
 
